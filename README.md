@@ -1,4 +1,5 @@
-# Animated Billboard Designer
+# CPE 381 COMPUTER GRAPHICS - Bezier Curve Assignment 
+## Animated Billboard Designer
 
 ## Overview
 
@@ -188,7 +189,8 @@ Potential features for future versions:
 
 ## Author
 
-Computer Graphics Project - Bezier Curve Animation System
+อริยาภรณ์ สุดเสถียรธานนท์ 65070501060
+Ariyaporn Sudsatientanone 65070501060
 
 ## License
 
