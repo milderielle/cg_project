@@ -1,0 +1,18 @@
+# Animated Billboard Designer - Requirements
+
+# Core Requirements
+# Python 3.7 or higher
+
+# Standard Library (included with Python)
+# - tkinter: GUI framework
+# - json: Data serialization
+# - math: Mathematical functions
+# - copy: Object copying
+# - typing: Type hints
+
+# No external dependencies required!
+# This project uses only Python standard library for maximum compatibility.
+
+# Optional: For development and testing
+# pytest>=6.0.0
+# black>=21.0.0
