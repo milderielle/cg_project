@@ -1,4 +1,6 @@
-# Animated Billboard Designer
+# CPE 381 COMPUTER GRAPHICS - Bezier Curve Assignment
+
+## Animated Billboard Designer
 
 A Python-based tool for creating shape morphing animations suitable for digital billboards using Bezier curves.
 
